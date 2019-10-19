@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://lizhenhua.fun/hello-solo)
+* [世界，你好！](http://blog.lizhenhua.fun/hello-solo)
 
 
 
