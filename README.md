@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Datagrip，Idea等JetBrains产品激活](http://blog.lizhenhua.fun/articles/2019/10/21/1571643030659.html)
 * [Linux普通用户安装mysql](http://blog.lizhenhua.fun/articles/2019/10/19/1571467219950.html)
 
 
