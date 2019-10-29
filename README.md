@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.lizhenhua.fun/my-github-repos)
+* [Jasypt Spring Boot 为 Spring Boot 项目中的属性源加密](http://blog.lizhenhua.fun/articles/2019/10/28/1572239477712.html)
 * [Datagrip，Idea等JetBrains产品激活](http://blog.lizhenhua.fun/articles/2019/10/21/1571643030659.html)
 * [Linux普通用户安装mysql](http://blog.lizhenhua.fun/articles/2019/10/19/1571467219950.html)
 
