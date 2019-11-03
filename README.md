@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CentOS升级docker版本到最新版本](http://blog.lizhenhua.fun/articles/2019/11/03/1572783734846.html)
 * [xxx is not in the sudoers file.This incident will be reported.的解决方法](http://blog.lizhenhua.fun/articles/2019/11/03/1572775487306.html)
 * [我在 GitHub 上的开源项目](http://blog.lizhenhua.fun/my-github-repos)
 * [Jasypt Spring Boot 为 Spring Boot 项目中的属性源加密](http://blog.lizhenhua.fun/articles/2019/10/28/1572239477712.html)
