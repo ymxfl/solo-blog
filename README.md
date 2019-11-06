@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Android9.0发送http请求报Network request faild](http://blog.lizhenhua.fun/articles/2019/11/06/1573015100310.html)
 * [CentOS升级docker版本到最新版本](http://blog.lizhenhua.fun/articles/2019/11/03/1572783734846.html)
 * [xxx is not in the sudoers file.This incident will be reported.的解决方法](http://blog.lizhenhua.fun/articles/2019/11/03/1572775487306.html)
 * [我在 GitHub 上的开源项目](http://blog.lizhenhua.fun/my-github-repos)
