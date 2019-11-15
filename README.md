@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Linux 内核升级](http://blog.lizhenhua.fun/articles/2019/11/15/1573788576186.html)
 * [ReactNative 0.60.4 Android开启Hermes](http://blog.lizhenhua.fun/articles/2019/11/10/1573324295105.html)
 * [将博客搬至CSDN](http://blog.lizhenhua.fun/articles/2019/11/08/1573203405048.html)
 * [Redis主从+哨兵模式配置](http://blog.lizhenhua.fun/articles/2019/11/08/1573182734655.html)
